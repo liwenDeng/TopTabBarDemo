@@ -1,0 +1,37 @@
+.my-page {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.scroll-view-header {
+  white-space: nowrap;
+  display: flex;
+  justify-content: space-around;
+}
+
+.scroll-header-item-wraper {
+  display: inline-flex;
+  padding: 15rpx 30rpx;
+  font-size: 30rpx;
+  color: #666666;
+}
+
+.title-selected {
+  color: #2d80ff;
+  border-bottom: 4rpx solid #2d80ff;
+}
+
+.scroll-view-body {
+  white-space: nowrap;
+  height: 100%;
+}
+
+.scroll-view-item {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  background-color: #e7eaef;
+}

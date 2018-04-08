@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2d80ff",
+    "navigationBarTitleText": "ScrollTopBarDemo",
+    "navigationBarTextStyle":"white"
+  }
+}
